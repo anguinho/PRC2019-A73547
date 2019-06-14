@@ -1,0 +1,435 @@
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l130
+:l130 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Silverpine Forest" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l4709
+:l4709 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Southern Barrens" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l1519
+:l1519 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Stormwind City" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l17
+:l17 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Northern Barrens" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l331
+:l331 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Ashenvale" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l1
+:l1 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Dun Morogh" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l440
+:l440 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Tanaris" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l3
+:l3 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Badlands" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l8
+:l8 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Swamp of Sorrows" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l40
+:l40 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Westfall" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l25
+:l25 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Blackrock Mountain" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l139
+:l139 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Eastern Plaguelands" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l405
+:l405 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Desolace" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l1637
+:l1637 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Orgrimmar" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l357
+:l357 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Feralas" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l1377
+:l1377 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Silithus" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l15
+:l15 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Dustwallow Marsh" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l3483
+:l3483 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Hellfire Peninsula" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l3521
+:l3521 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Zangarmarsh" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l3519
+:l3519 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Terokkar Forest" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l3523
+:l3523 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Netherstorm" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l4080
+:l4080 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Isle of Quel'Danas" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l3520
+:l3520 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Shadowmoon Valley" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l41
+:l41 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Deadwind Pass" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l3522
+:l3522 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Blade's Edge Mountains" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l1941
+:l1941 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Caverns of Time" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l495
+:l495 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Howling Fjord" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l394
+:l394 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Grizzly Hills" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l3537
+:l3537 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Borean Tundra" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l67
+:l67 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "The Storm Peaks" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l65
+:l65 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Dragonblight" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l4613
+:l4613 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Dalaran City" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l66
+:l66 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Zul'Drak" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l210
+:l210 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Icecrown" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l4197
+:l4197 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Wintergrasp" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l5034
+:l5034 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Uldum" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l4922
+:l4922 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Twilight Highlands" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l4738
+:l4738 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Abyssal Maw" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l5042
+:l5042 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Deepholm" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l33
+:l33 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Northern Stranglethorn" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l3433
+:l3433 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Ghostlands" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l5095
+:l5095 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Tol Barad" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l616
+:l616 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Mount Hyjal" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l5892
+:l5892 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Dragon Soul" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l5840
+:l5840 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Vale of Eternal Blossoms" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l85
+:l85 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Tirisfal Glades" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l28
+:l28 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Western Plaguelands" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l5841
+:l5841 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Kun-Lai Summit" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l5842
+:l5842 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Townlong Steppes" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l5805
+:l5805 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Valley of the Four Winds" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l5785
+:l5785 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "The Jade Forest" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l6138
+:l6138 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Dread Wastes" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l6006
+:l6006 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "The Veiled Stair" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l6507
+:l6507 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Isle of Thunder" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l6662
+:l6662 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Talador" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l6720
+:l6720 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Frostfire Ridge" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l6721
+:l6721 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Gorgrond" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l6719
+:l6719 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Shadowmoon Valley" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l6722
+:l6722 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Spires of Arak" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l46
+:l46 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Burning Steppes" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l6755
+:l6755 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Nagrand" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l6723
+:l6723 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Tanaan Jungle" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l7996
+:l7996 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Violet Hold" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l7558
+:l7558 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Val'sharah" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l7637
+:l7637 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Suramar" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l7334
+:l7334 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Azsuna" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l7541
+:l7541 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Stormheim" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l7503
+:l7503 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Highmountain" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l8148
+:l8148 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Suramar City" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l7543
+:l7543 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Broken Shore" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l8026
+:l8026 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "The Emerald Nightmare" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l7588
+:l7588 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Helheim" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l7534
+:l7534 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Broken Shore" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l8638
+:l8638 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Antorus, the Burning Throne" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l9028
+:l9028 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Atal'Dazar" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l9164
+:l9164 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Freehold" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l9327
+:l9327 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Tol Dagor" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l8064
+:l8064 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "The MOTHERLODE!!" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l9424
+:l9424 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Waycrest Manor" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l9391
+:l9391 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "The Underrot" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l9354
+:l9354 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Siege of Boralus" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l9527
+:l9527 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Temple of Sethraliss" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l9525
+:l9525 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Shrine of the Storm" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l9526
+:l9526 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Kings' Rest" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l9389
+:l9389 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Uldir" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l8670
+:l8670 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Dazar'alor" .
+
+###  http://prc.di.uminho.pt/2019/worldOfwarcraft#l10057
+:l10057 rdf:type owl:NamedIndividual , 
+					:Location ;
+		:name "Crucible of Storms" .
+

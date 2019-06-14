@@ -1,0 +1,21 @@
+{
+  "name": "spells",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bosses2ttl.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0",
+    "jsonfile": "^5.0.0",
+    "passport": "^0.4.0",
+    "passport-bnet": "^2.0.0",
+    "sleep": "^6.1.0",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
